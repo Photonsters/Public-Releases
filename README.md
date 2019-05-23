@@ -1,8 +1,16 @@
 # Public Releases
-Archive for all official [Photonsters](https://www.facebook.com/Photonsters) public releases for the Anycubic [Photon Owners Group](https://www.facebook.com/groups/1194619320682708?). 
+Archive for all official [Photonsters](https://www.facebook.com/Photonsters) public release modifications for the Anycubic Photon and all compatible printers. 
 
 ---
 
-### Photonsters High Contrast Net UI
+### Photonsters High Contrast Net UI (PHCN-UI) 
 This is the Photonsters User Interface (UI) modification that addresses a primary deficiency of the default UI as shipped on all original Photons. It replaces the default UI with a high contrast version to enhance legibility of the text and menu. 
+
+Depending on the Photon's firmware version, installation of this UI may also enable a hidden network menu that will enable ethernet networking, file transfer and remote printing. 
+
+The Photon UI is separate from the printer's firmware and will not make any changes to it. The PHCN-UI is easily installed by just "printing" a single binary file. It is possible to revert to the default UI at any time, a copy of the original UI is packaged together. 
+
+The latest PHCN-UI can be found here. Note that the Photon-S is unable to use this new UI. 
+
+
 
