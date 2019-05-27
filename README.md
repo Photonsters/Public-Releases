@@ -10,7 +10,7 @@ Depending on the Photon's installed firmware version, installation of this PHCN-
 
 The Photon UI is completely separate from the printer's firmware and no changes will be made to it. The PHCN-UI is easily installed by just "printing" a single binary file. It is possible to revert to the original default UI at any time, a copy of which is packaged together. 
 
-[The latest PHCN-UI can be downloaded here](#). Note that the Photon-S is unable to use this new PHCN-UI. 
+[The latest PHCN-UI can be downloaded here](https://github.com/Photonsters/photon-ui-mods/readme.md). Note that the Photon-S is unable to use this new PHCN-UI. 
 
 
 
